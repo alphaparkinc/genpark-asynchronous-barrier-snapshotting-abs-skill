@@ -1,0 +1,13 @@
+{
+  "name": "genpark-asynchronous-barrier-snapshotting-abs-skill",
+  "version": "1.0.0",
+  "description": "Flink-style Asynchronous Barrier Snapshotting (ABS) algorithm for low-overhead distributed streaming checkpointing and state alignment.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "distributed-streaming",
+    "asynchronous-barrier-snapshotting",
+    "flink-abs",
+    "fault-tolerance"
+  ]
+}
